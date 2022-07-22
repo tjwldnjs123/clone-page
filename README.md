@@ -1,4 +1,4 @@
-# clone-page🧚
+# 🧚clone-page
 1. HTML
 - 헤더부분,메인부분 각 영역 나눠서 html,css작성해보고 index.html에 합쳐보기
 - 각 영역마다 어떤 태그가 유용한지 알아보기
