@@ -1,0 +1,7 @@
+.bg {
+  background: url("../images/background.jpg") center center;
+  background-size: cover;
+  /* 이미지 고정 */
+  background-attachment: fixed;
+  height: 650px;
+}
